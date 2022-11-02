@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gatling Gun",
+    "unitType": "Ranged Gunpowder",
+    "range": 2,
+    "movement": 2,
+    "strength": 30,
+    "rangedStrength": 30,
+    "cost": 225,
+    "requiredTech": "Industrialization",
+    "upgradesTo": "Machine Gun",
+    "obsoleteTech": "Ballistics",
+    "attackSound": "machinegun"
+  },
+  {
+    "name": "Machine Gun",
+    "unitType": "Ranged Gunpowder",
+    "range": 2,
+    "movement": 2,
+    "strength": 60,
+    "rangedStrength": 60,
+    "cost": 350,
+    "requiredTech": "Ballistics",
+    "attackSound": "machinegun"
+  },
+]
